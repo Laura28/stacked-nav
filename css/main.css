@@ -32,3 +32,21 @@ ul li {
   display: block;
   color: #9a816d;
 }
+
+li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  background-color: #9a816d;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+li a:hover {
+  background-color: #795437;
+}
+
+li a, li a:hover {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
