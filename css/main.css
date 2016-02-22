@@ -1,0 +1,17 @@
+html {
+  background-color: #fff;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  color: #5e1800;
+  text-align: center;
+  background-color: #efeee9;
+  display: block;
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
