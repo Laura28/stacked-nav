@@ -50,3 +50,12 @@ li a, li a:hover {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+hr {
+  display: block;
+  height: 0;
+  border: 0;
+  border-top: 0 #795437;
+  margin-top: 0.125rem;
+  margin-bottom: 0.125rem;
+}
